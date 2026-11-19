@@ -5,4 +5,4 @@ Disallow: /tsandcs.html
 Disallow: /niwa-cottage.html
 Disallow: /slopeside.html
 Disallow: /property.html
-Sitemap: http://valleychalets.com/sitemap.xml
+Sitemap: https://valleychalets.com/sitemap.xml
